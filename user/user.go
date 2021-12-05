@@ -1,6 +1,6 @@
 package user
 
-import "github.com/sgreben/testing-with-gomock/doer"
+import "github.com/parsaeisa/Go_mock_try/doer"
 
 type User struct {
 	Doer doer.Doer
