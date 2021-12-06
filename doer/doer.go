@@ -1,5 +1,5 @@
 package doer
 
-type doer interface {
-	Dosomething(int, string) error
+type Doer interface {
+	DoSomething(i int, s string) error
 }
