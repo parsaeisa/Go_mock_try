@@ -1,6 +1,6 @@
 package user
 
-import "github.com/parsaeisa/Go_mock_try/doer"
+import "Go_mock_try/doer"
 
 type User struct {
 	Doer doer.Doer
