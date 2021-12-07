@@ -2,7 +2,7 @@
 // Source: doer/doer.go
 
 // Package mock_doer is a generated GoMock package.
-package mock_doer
+package mocks
 
 import (
 	reflect "reflect"
