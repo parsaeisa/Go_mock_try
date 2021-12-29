@@ -1,6 +1,7 @@
 # Go_mock_try
 
 For writing unit tests I had to mock the dependencies of a method which I was writing test for . 
+This repo is my practice repo before starting my writing tests task . 
 go mock was very usefull , it generates mocks of golang interface's easily just in one line terminal code . 
 
 ```bash
