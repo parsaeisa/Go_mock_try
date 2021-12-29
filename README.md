@@ -39,7 +39,6 @@ func TestFoo(t *testing.T) {
 }
 ```
 
-You can read more in : 
-[https://github.com/golang/mock ]
+You can read more in :   https://github.com/golang/mock
 
 
