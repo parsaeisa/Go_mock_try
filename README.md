@@ -14,6 +14,12 @@ you can download and install it with :
 go install github.com/golang/mock/mockgen@v1.6.0
 ```
 
+dont forget to export go path to use mockgen 
+
+```bash
+export PATH="$PATH:$(go env GOPATH)/bin"
+```
+
 also gomock has very efficient tools to write expectaions of a method 
 ( test inputs , outputs and test how many times this method has been called ) 
 for example :
