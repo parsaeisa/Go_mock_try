@@ -48,4 +48,9 @@ func TestFoo(t *testing.T) {
 
 You can read more in :   https://github.com/golang/mock
 
+## Some points about gomock 
+
+* The order of method call expectations is not important .
+* If you add a method call expectation which is not called , test will pass already . 
+
 
